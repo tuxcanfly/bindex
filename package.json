@@ -1,7 +1,7 @@
 {
   "name": "bindex",
   "version": "1.0.0",
-  "description": "Bcoin indexer plugin",
+  "description": "Bcoin index bike-shed",
   "main": "./lib/bindex.js",
   "directories": {
     "lib": "lib",
@@ -17,7 +17,9 @@
   "keywords": [
     "bcoin",
     "plugin",
-    "indexer"
+    "indexing",
+    "indexer",
+    "index"
   ],
   "author": "The Bcoin Developers",
   "license": "MIT",

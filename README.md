@@ -1,6 +1,6 @@
 # bindex
 
-bindex is a [bcoin][bcoin] plugin which adds multiple pluggable indexers.
+bindex is a [bcoin][bcoin] plugin for indexing the chain.
 
 ## Usage
 

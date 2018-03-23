@@ -24,11 +24,13 @@
   "author": "The Bcoin Developers",
   "license": "MIT",
   "dependencies": {
-    "bcoin": "git+https://github.com/bcoin-org/bcoin.git#wallet-rewrite",
     "bdb": "0.0.2",
     "bfilter": "0.0.1",
     "blgr": "0.0.1",
     "bmutex": "0.0.1"
+  },
+  "peerDependencies": {
+    "bcoin": "git+https://github.com/bcoin-org/bcoin.git#wallet-rewrite"
   },
   "devDependencies": {
     "eslint": "^4.17.0",
